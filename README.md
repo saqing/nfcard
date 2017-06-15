@@ -1,5 +1,6 @@
 # NFCard
 ## !!! This project forked from [sinpolib/nfcard](https://github.com/sinpolib/nfcard)
+## You can open this project via android stuido .
 
 NFCard is an Android App. It can read contactless IC card use NFC hadware. Support ISO7816-4, Felica compliant e-wallet, Get account balance and transaction logs from these cards if no read restriction.
 

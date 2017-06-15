@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Erick/code/android/saqing/nfcard/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/Erick/code/android/saqing/nfcard/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/Erick/code/android/saqing/nfcard/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/Erick/code/android/saqing/nfcard/app/src/main/res/anim/fade_out.xml"
+    }
+]

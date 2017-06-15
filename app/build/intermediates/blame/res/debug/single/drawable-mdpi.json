@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Erick/code/android/saqing/nfcard/app/build/intermediates/res/merged/debug/drawable-mdpi/back.png",
+        "source": "/Users/Erick/code/android/saqing/nfcard/app/src/main/res/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "/Users/Erick/code/android/saqing/nfcard/app/build/intermediates/res/merged/debug/drawable-mdpi/share.png",
+        "source": "/Users/Erick/code/android/saqing/nfcard/app/src/main/res/drawable-mdpi/share.png"
+    },
+    {
+        "merged": "/Users/Erick/code/android/saqing/nfcard/app/build/intermediates/res/merged/debug/drawable-mdpi/reset.png",
+        "source": "/Users/Erick/code/android/saqing/nfcard/app/src/main/res/drawable-mdpi/reset.png"
+    },
+    {
+        "merged": "/Users/Erick/code/android/saqing/nfcard/app/build/intermediates/res/merged/debug/drawable-mdpi/copy.png",
+        "source": "/Users/Erick/code/android/saqing/nfcard/app/src/main/res/drawable-mdpi/copy.png"
+    },
+    {
+        "merged": "/Users/Erick/code/android/saqing/nfcard/app/build/intermediates/res/merged/debug/drawable-mdpi/nfcard.png",
+        "source": "/Users/Erick/code/android/saqing/nfcard/app/src/main/res/drawable-mdpi/nfcard.png"
+    }
+]

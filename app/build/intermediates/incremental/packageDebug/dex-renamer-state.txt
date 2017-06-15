@@ -1,0 +1,7 @@
+#Thu Jun 15 09:32:02 CST 2017
+base.0=/Users/Erick/code/android/saqing/nfcard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2f2564c83bfade0f36cc1dc8aaab4690016ad0ab
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Erick/code/android/saqing/nfcard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0bc8801514a2d49678d1194e962b6f390d176f6f/classes.dex
+base.1=/Users/Erick/code/android/saqing/nfcard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0bc8801514a2d49678d1194e962b6f390d176f6f
+file.0=/Users/Erick/code/android/saqing/nfcard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2f2564c83bfade0f36cc1dc8aaab4690016ad0ab/classes.dex
